@@ -1,0 +1,11 @@
+{
+  "name": "react-guagejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/shawnmclean/react-guagejs.git",
+  "author": "Shawn Mclean <shawnrmclean@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^0.54.0"
+  }
+}
