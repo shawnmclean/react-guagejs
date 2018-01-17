@@ -5,6 +5,11 @@
   "repository": "https://github.com/shawnmclean/react-guagejs.git",
   "author": "Shawn Mclean <shawnrmclean@gmail.com>",
   "license": "MIT",
+  "browser": "dist/main.umd.js",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w"
+  },
   "devDependencies": {
     "rollup": "^0.54.0"
   },
